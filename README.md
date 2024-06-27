@@ -81,10 +81,13 @@ src="https://img.shields.io/github/followers/operaconga14?logo=github&style=for-
 ## Support Me
 
 <p>
-    <a href="https://www.buymeacoffee.com/operaconga">
+    <!-- <a href="https://www.buymeacoffee.com/operaconga">
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" style="border-radius: 0;"/>
-    </a>
+    </a> -->
+    <a href="https://www.buymeacoffee.com/operaconga"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=operaconga&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
 </p>
+
+
 
 
 <h2>My GitHub Stats</h2>
