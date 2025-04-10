@@ -18,6 +18,7 @@
 -   🔒 Proficient in **JWT-based authentication**, **OAuth**, and API security best practices
 -   💻 Strong advocate for **clean architecture**, **scalable systems**, and **open source collaboration**
 -   ⚙️ Currently learning **Solidity** and building full-stack dApps for decentralized applications
+-   ✍️ Active writer on Hashnode & Dev.to — [Read my blogs](https://amirejoseph.hashnode.dev)
 
 ---
 
@@ -55,7 +56,7 @@
 
 -   🎓 Studying **Neural Networks** at [WorldQuant University](https://learn.wqu.edu/)
 -   📘 Exploring **Solidity**, **Hardhat**, and **Web3.js** for smart contract development
--   ⚙️ Deepening my understanding of **OAuth2.0**, **Token Management**, and **Cross-Origin Security**
+<!-- -   ⚙️ Deepening my understanding of **OAuth2.0**, **Token Management**, and **Cross-Origin Security** -->
 
 ---
 
@@ -66,7 +67,7 @@ I’m open to opportunities in:
 -   ✅ Full-Stack Web Development (Angular + Node.js + Python)
 -   ✅ Web Application Testing / QA Automation
 -   ✅ Blockchain & Web3 Integration (Beginner-Friendly Projects)
--   ✅ Technical Writing / Documentation
+<!-- -   ✅ Technical Writing / Documentation -->
 -   ✅ Mentorship / Code Reviews
 
 > If you're building something meaningful, I'd love to help bring it to life.
