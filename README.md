@@ -1,104 +1,108 @@
-<img src="./code.gif" width="2000">
+<img src="./code.gif" width="100%" style="border-radius: 15px" alt="Amire Joseph Banner" />
 
-<h1 align="center">Hi there 👋, I'm Amire Joseph</h1>
-<h2 align="center"> <b> I am a Full-Stack Developer </b></h2>
+<h1 align="center">👋 Hello, I'm Amire Joseph</h1>
+<h3 align="center">Full-Stack Web Developer | AI & Blockchain Enthusiast | Open Source Contributor</h3>
 
-<p>
-I am a skilled full-stack developer with more than three years of professional experience in the field. My expertise spans across various technologies and platforms, allowing me to create robust and dynamic web applications. My passion for coding is complemented by my love for music, as I enjoy playing the bass guitar in my free time. Additionally, I have a keen interest in flight simulation games and car racing games, which provide me with an exciting and immersive gaming experience. My diverse interests and technical prowess make me a well-rounded and dynamic individual both professionally and personally.
+---
+
+<p align="center">
+💡 I’m a highly motivated Full-Stack Developer with over 3 years of experience in building scalable web applications, crafting intuitive user interfaces, and developing RESTful APIs. I’m passionate about solving real-world problems with clean, maintainable code and enjoy working across the stack—from frontend to backend and beyond.
 </p>
 
+---
+
+## 🔍 Summary
+
+-   🧑‍💻 **3+ years** of hands-on experience in **JavaScript, TypeScript, Angular, Node.js, Python and Express**
+-   🚀 Proven ability to **build, test, and deploy** modern web applications using **Sequelize, MySQL, MongoDB, and Cloudinary**
+-   🔒 Proficient in **JWT-based authentication**, **OAuth**, and API security best practices
+-   💻 Strong advocate for **clean architecture**, **scalable systems**, and **open source collaboration**
+-   ⚙️ Currently learning **Solidity** and building full-stack dApps for decentralized applications
+-   ✍️ Active writer on Hashnode & Dev.to — [Read my blogs](https://amirejoseph.hashnode.dev)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+`JavaScript` · `TypeScript` · `Python` · `Solidity (beginner)`
+
+### Frontend
+
+`Angular` · `HTML5` · `CSS3` · `Bootstrap`
+
+### Backend
+
+`Node.js` · `Express` · `REST APIs` · `JWT` · `Sequelize` · `MySQL` · `MongoDB` . `Python` . `Fast API`
+
+### Dev Tools & Others
+
+`Git` · `Cloudinary` · `Vercel` . `Netlify` · `Linux (Pop OS)` · `Postman` · `Insomnia` · `CLI Tools (npm)`
+
+---
+
+## 📦 Featured Projects
+
+| Project Name            | Description                                                                      | Technologies Used                       | Link                                                                                                                                                                            |
+| ----------------------- | -------------------------------------------------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🎨 ColorGenFile         | CLI tool and Vs Code Extension that generates CSS/SCSS files with color palettes | Node.js, npm CLI, VsCode API, Typscript | [View on npm](https://www.npmjs.com/package/color-genfile) and [View vscode market-place](https://marketplace.visualstudio.com/items?itemName=AmireJoseph.color-genfile-vscode) |
+| 📁 API Folder Generator | CLI to scaffold API file structures with ease                                    | Node.js, CLI                            | [View vscode market-place](https://marketplace.visualstudio.com/items?itemName=AmireJoseph.api-folder-gen)                                                                      |
+| 🎧 Mugivies             | A platform for musicians to find gigs, collaborators, and build a community      | Angular, Node.js, Sequelize, Cloudinary | _In development_                                                                                                                                                                |
+
+---
+
+## 🧠 Learning & Exploration
+
+-   🎓 Studying **Neural Networks** at [WorldQuant University](https://learn.wqu.edu/)
+-   📘 Exploring **Solidity**, **Hardhat**, and **Web3.js** for smart contract development
+<!-- -   ⚙️ Deepening my understanding of **OAuth2.0**, **Token Management**, and **Cross-Origin Security** -->
+
+---
+
+## 💬 Let’s Connect
+
+I’m open to opportunities in:
+
+-   ✅ Full-Stack Web Development (Angular + Node.js + Python)
+-   ✅ Web Application Testing / QA Automation
+-   ✅ Blockchain & Web3 Integration (Beginner-Friendly Projects)
+<!-- -   ✅ Technical Writing / Documentation -->
+-   ✅ Mentorship / Code Reviews
+
+> If you're building something meaningful, I'd love to help bring it to life.
+
+📫 **Email**: [amirejoseph83@gmail.com](mailto:amirejoseph83@gmail.com)  
+🌍 **Portfolio**: [Amire Joseph | Portfolio Site](https://amirejoseph.netlify.app)  
+🧑‍🎓 **LinkedIn**: [linkedin.com/in/joseph-amire-528099232](https://www.linkedin.com/in/joseph-amire-528099232)  
+🐙 **GitHub**: [github.com/Operaconga14](https://github.com/Operaconga14)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
-<!-- Twitter Account -->
-<img src="https://komarev.com/ghpvc/?username=Operaconga14">
-</p><a>
-<img src="https://img.shields.io/twitter/follow/AmireJosep60985?logo=twitter&style=for-the-badge">
-</a>
-<!-- Github Account -->
-<a href="https://www.github.com/operaconga14" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/operaconga14?logo=github&style=for-the-badge" /></a>
-</a>
-<!-- Linkedin Account-->
-<a href="https://www.linkedin.com/in/joseph-amire-528099232/">
-<img src="https://img.shields.io/twitter/follow/AmireJosep60985?logo=twitter&style=for-the-badge">
-</a>
-
-
-
-- 🏫 I’m a Learning Full Stack Engineering at **App Academy**, <a href="https://my.appacademy.io/">App Academy</a>
-
-- 💻 I’m open to Jobs or internships as a Fullstack Engineer, Web App Tester, or Blockchain Project Contributor.
-
-- ❣️ I’m interested in working with Blockchain Companies.
-
-- 🔭 I’m have worked on a personal project **<a href="https://www.npmjs.com/package/color-genfile"> ColorGenFile </a> Color-Genfile is an npm package cli that helps you to generate different colors of your choice and generate it into a css or scss file for Html, Angular React etc.**
-
-- 🌱 I’m currently learning **Solidity, Nodejs**
-
-- 👯 I’m looking to collaborate on an **Open Source Project, Blockchain Projects**...
-
-- 🤔 I’m always available to guide you in **Tech and Music**
-
-- 💬 Seek advise about Tech, Christ, Frontend, Backend,
-
-- 📫 How to reach me: ... **operacongahub@gmail.com or amirejoseph83@gmail.com**
-
-- ⚡ Fun fact: **I love sharing ideas**
-
-
-## Find Me!
-
-
-
-<p align="left"> <a href="https://www.github.com/Operaconga14" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Operaconga14&layout=compact&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Operaconga14&show_icons=true&theme=github_dark" />
 </p>
 
-## Languages and Tools
+---
 
-<p align="left">
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<!-- Python -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<!-- Typscript -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<!-- BootStrap -->
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<!-- Node Js -->
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<!-- Mongo Db -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<!-- Mysql -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<!-- Solidity -->
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width="36" height="30" alt="Hardhat - Solidity"></a>
-</p>
-</p>
+<!-- ## 🤝 Support & Collaboration
 
-## OS
-### MX Linux and Ubuntu
+If you’d like to support my open-source work or just buy me a coffee:
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?logo=buy-me-a-coffee&style=for-the-badge)](https://www.buymeacoffee.com/amirejoseph)
 
+--- -->
 
+## 🎸 Fun Facts About Me
 
-<!-- ## Support Me -->
+-   🎸 I play bass guitar and love composing music
+-   ✈️ I’m a flight simulation geek—landing planes in crosswinds is a thrill
+-   🏎️ I unwind with high-speed racing games and motorsport analysis
 
-<p>
-    <!-- <a href="https://www.buymeacoffee.com/operaconga">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" style="border-radius: 0;"/>
-    </a> -->
-    <!-- <a href="https://www.buymeacoffee.com/operaconga"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=operaconga&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a> -->
-<!-- </p> -->
+---
 
-
-
-
-<h2>My GitHub Stats</h2>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Operaconga14&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="Operaconga14" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Operaconga14&show_icons=true&locale=en&theme=github_dark_dimmed" alt="Operaconga14" /></p>
+> “Great software is built not just with code, but with curiosity, creativity, and care.”  
+> — _Amire Joseph_
