@@ -29,11 +29,11 @@
 
 ### Frontend
 
-`Angular` · `HTML5` · `CSS3` · `Bootstrap`
+`Angular` · `HTML5` · `CSS3` · `Bootstrap` . `React`
 
 ### Backend
 
-`Node.js` · `Express` · `REST APIs` · `JWT` · `Sequelize` · `MySQL` · `MongoDB` . `Python` . `Fast API`
+`Node.js` · `Express` · `REST APIs` · `JWT` · `Sequelize` · `MySQL` · `MongoDB` . `Python` . `Fast API` . `Tortoise (ORM)`
 
 ### Dev Tools & Others
 
