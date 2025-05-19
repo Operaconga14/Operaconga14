@@ -74,7 +74,7 @@ I’m open to opportunities in:
 
 📫 **Email**: [amirejoseph83@gmail.com](mailto:amirejoseph83@gmail.com)  
 🌍 **Portfolio**: [Amire Joseph | Portfolio Site](https://amirejoseph.netlify.app)  
-🧑‍🎓 **LinkedIn**: [linkedin.com/in/joseph-amire-528099232](https://www.linkedin.com/in/joseph-amire-528099232)  
+🧑‍🎓 **LinkedIn**: [linkedin.com/in/josephamire](https://www.linkedin.com/in/josephamire)  
 🐙 **GitHub**: [github.com/Operaconga14](https://github.com/Operaconga14)
 
 ---
