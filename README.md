@@ -48,6 +48,7 @@
 | 🎨 ColorGenFile         | CLI tool and Vs Code Extension that generates CSS/SCSS files with color palettes | Node.js, npm CLI, VsCode API, Typscript | [View on npm](https://www.npmjs.com/package/color-genfile) and [View vscode market-place](https://marketplace.visualstudio.com/items?itemName=AmireJoseph.color-genfile-vscode) |
 | 📁 API Folder Generator | CLI to scaffold API file structures with ease                                    | Node.js, CLI                            | [View vscode market-place](https://marketplace.visualstudio.com/items?itemName=AmireJoseph.api-folder-gen)                                                                      |
 | 🎧 Mugivies             | A platform for musicians to find gigs, collaborators, and build a community      | Angular, Node.js, Sequelize, Cloudinary | _In development_                                                                                                                                                                |
+| GrowthAI                | Growth AI is a motivational web app that helps users track and complete personal challenges using the power of open-source AI. Whether it's a fitness goal, writing habit, or daily routine, this assistant encourages consistency and offers guidance, tracking, and accountability.                     | React, Python Fast API, Tortoise (ORM), Cloudinary | _In development_
 
 ---
 
