@@ -6,18 +6,17 @@
 ---
 
 <p align="center">
-💡 I’m a highly motivated Full-Stack Developer with over 3 years of experience in building scalable web applications, crafting intuitive user interfaces, and developing RESTful APIs. I’m passionate about solving real-world problems with clean, maintainable code and enjoy working across the stack—from frontend to backend and beyond.
+💡 I’m a highly motivated Full-Stack Developer with several experience in building scalable web applications, crafting intuitive user interfaces, and developing RESTful APIs. I’m passionate about solving real-world problems with clean, maintainable code and enjoy working across the stack—from frontend to backend and beyond.
 </p>
 
 ---
 
 ## 🔍 Summary
 
--   🧑‍💻 **3+ years** of hands-on experience in **JavaScript, TypeScript, Angular, Node.js, Python and Express**
--   🚀 Proven ability to **build, test, and deploy** modern web applications using **Sequelize, MySQL, MongoDB, and Cloudinary**
--   🔒 Proficient in **JWT-based authentication**, **OAuth**, and API security best practices
--   💻 Strong advocate for **clean architecture**, **scalable systems**, and **open source collaboration**
--   ⚙️ Currently learning **Solidity** and building full-stack dApps for decentralized applications
+-   🧑‍💻 **several years** of hands-on experience in **JavaScript, TypeScript, Angular, Node.js, Python, Express, Nestjs, and React**
+-   🚀 Proven ability to **build, test, and deploy** modern web applications using **Sequelize, Typeorm, MySQL, MongoDB, Postgres, Imagekit and Cloudinary**
+-   🔒 Proficient in **JWT-based authentication**, **OAuth, Payment Gateway**, and API security best practices
+-   💻 Strong advocate for **clean architecture**, **scalable systems**, and **collaboration**
 
 ---
 
@@ -33,11 +32,11 @@
 
 ### Backend
 
-`Node.js` · `Express` · `REST APIs` · `JWT` · `Sequelize` · `MySQL` · `MongoDB` . `Python` . `Fast API` . `Tortoise (ORM)`
+`Node.js` · `Express` · `REST APIs` · `JWT` · `Sequelize` · `MySQL` · `MongoDB` . `Python` . `Fast API` . `Tortoise (ORM)` . `Type orm` . `Nest JS ` . `Flutterwave Payment gateway` . `Paystack payment gateway`
 
 ### Dev Tools & Others
 
-`Git` · `Cloudinary` · `Vercel` . `Netlify` · `Linux (Pop OS)` · `Postman` · `Insomnia` · `CLI Tools (npm)`
+`Git` · `Cloudinary` · `Vercel` . `Netlify` · `Linux (Fedora)` · `Postman` · `Insomnia` · `CLI Tools (npm, pnpm)`
 
 ---
 
@@ -54,9 +53,7 @@
 
 ## 🧠 Learning & Exploration
 
--   🎓 Studying **Neural Networks** at [WorldQuant University](https://learn.wqu.edu/)
--   📘 Exploring **Solidity**, **Hardhat**, and **Web3.js** for smart contract development
--   ⚙️ Deepening my understanding of **OAuth2.0**, **Token Management**, and **Cross-Origin Security**
+-   ⚙️ Deepening my understanding of **OAuth2.0**, **Token Management**, **Payment Gateway Libraries** and **Cross-Origin Security**
 
 ---
 
@@ -65,7 +62,7 @@
 I’m open to opportunities in:
 
 -   ✅ Full-Stack Web Development (Angular + Node.js + Python)
--   ✅ Web Application Testing / QA Automation
+-   ✅ Web Application Testing 
 -   ✅ Blockchain & Web3 Integration (Beginner-Friendly Projects)
 -   ✅ Technical Writing / Documentation
 -   ✅ Mentorship / Code Reviews
@@ -100,7 +97,7 @@ If you’d like to support my open-source work or just buy me a coffee:
 
 -   🎸 I play bass guitar and love composing music
 -   ✈️ I’m a flight simulation geek—landing planes in crosswinds is a thrill
--   🏎️ I unwind with high-speed racing games and motorsport analysis
+-   🏎️ I unwind with high-speed racing games and motorsport
 
 ---
 
