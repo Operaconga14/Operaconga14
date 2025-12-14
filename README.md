@@ -1,7 +1,7 @@
 <img src="./code.gif" width="100%" style="border-radius: 15px" alt="Amire Joseph Banner" />
 
 <h1 align="center">👋 Hello, I'm Amire Joseph</h1>
-<h3 align="center">Full-Stack Web Developer | AI & Blockchain Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Full-Stack Web Developer | AI Enthusiast</h3>
 
 ---
 
@@ -13,7 +13,7 @@
 
 ## 🔍 Summary
 
--   🧑‍💻 **several years** of hands-on experience in **JavaScript, TypeScript, Angular, Node.js, Python, Express, Nestjs, and React**
+-   🧑‍💻 **several years** of hands-on experience in **JavaScript, TypeScript, Angular, Node.js, Python, Express, Nestjs, NextJs and React**
 -   🚀 Proven ability to **build, test, and deploy** modern web applications using **Sequelize, Typeorm, MySQL, MongoDB, Postgres, Imagekit and Cloudinary**
 -   🔒 Proficient in **JWT-based authentication**, **OAuth, Payment Gateway**, and API security best practices
 -   💻 Strong advocate for **clean architecture**, **scalable systems**, and **collaboration**
@@ -28,7 +28,7 @@
 
 ### Frontend
 
-`Angular` · `HTML5` · `CSS3` · `Bootstrap` . `React`
+`Angular` · `HTML5` · `CSS3` · `Bootstrap` . `React`, `NextJs`, `Wordpress`
 
 ### Backend
 
@@ -61,7 +61,7 @@
 
 I’m open to opportunities in:
 
--   ✅ Full-Stack Web Development (Angular + Node.js + Python)
+-   ✅ Full-Stack Web Development (Angular + Node.js + Python + React/Nextjs)
 -   ✅ Web Application Testing 
 -   ✅ Blockchain & Web3 Integration (Beginner-Friendly Projects)
 -   ✅ Technical Writing / Documentation
